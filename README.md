@@ -20,4 +20,4 @@ LVL 1 DFD - https://github.com/ProjectGoLive/GoLive_Submissions/blob/main/WhatsA
 
 Decision Table - https://github.com/ProjectGoLive/GoLive_Submissions/blob/main/GoLive_DecisionTable%20(2).docx
 
-Data Dictionary - 
+Data Dictionary - https://github.com/ProjectGoLive/GoLive_Submissions/blob/main/DATA%20DICTIONARY.docx
